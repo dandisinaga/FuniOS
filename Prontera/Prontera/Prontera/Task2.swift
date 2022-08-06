@@ -12,6 +12,7 @@ func kabisa () {
             print("Tahun \(i) adalah Kabisat")
         } else {
             print("Tahun ini \(i) tidak kabisat")
+            print("Test Sourcetree")
         }
     }
 }
